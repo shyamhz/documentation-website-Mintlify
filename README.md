@@ -4,6 +4,10 @@ A static HTML/CSS clone of the Mintlify landing page. This project focuses on la
 
 [[Screenshot]] :: ![Screenshot](./screenshot.png)
 
+---
+
+[[Live preview [see here](https://mintlify-clone.shyamhz.dev)]]
+
 ## Features
 
 - Navigation bar with brand logo, menu items, and CTA buttons
