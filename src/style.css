@@ -28,9 +28,11 @@ html {
   outline: none;
   border: none;
 }
+
 .min-h-screen {
   min-height: 100vh;
 }
+
 body {
   width: 100%;
 }
@@ -56,6 +58,7 @@ header {
     backdrop-filter 0.3s ease;
   color: white;
 }
+
 header.glass {
   background: rgba(255, 255, 255, 0.15);
   backdrop-filter: blur(12px);
@@ -89,8 +92,9 @@ header nav ul {
   font-weight: 500;
   font-size: 16px;
 }
+
 .btn {
-  font-size: 14px;
+  font-size: 12px;
   outline: none;
   border: none;
 }
@@ -99,10 +103,12 @@ header.dark .nav-button-solid {
   background: rgba(8, 8, 8, 0.909) !important;
   color: white;
 }
+
 header.dark .nav-button-trans {
   background: rgba(218, 218, 218, 0.428) !important;
   color: #222;
 }
+
 .nav-button-trans {
   padding: 8px 18px;
   border-radius: 999px;
@@ -245,7 +251,7 @@ header.dark .nav-button-trans {
   background: #fff;
   color: #111;
 
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 600;
 }
 
@@ -418,6 +424,7 @@ header.dark .nav-button-trans {
   grid-template-columns: 434px 542px;
   gap: 64px;
 }
+
 .fourth-section-feature-title {
   font-size: 22px;
   margin: 16px 0 12px;
@@ -531,18 +538,22 @@ header.dark .nav-button-trans {
   cursor: pointer;
   margin-top: 6px;
 }
+
 .fifth-card-link:hover {
   color: #111;
 }
+
 .left-right-btn {
   width: 100%;
   text-align: center;
   margin-top: 60px;
 }
+
 .left-right-btn svg {
   width: 35px;
   height: 35px;
 }
+
 .left-right-btn svg:hover {
   opacity: 0.7;
   cursor: pointer;
@@ -630,10 +641,12 @@ header.dark .nav-button-trans {
   justify-content: center;
   font-size: 24px;
 }
+
 .sixth-icon-box svg {
   width: 32px;
   height: 32px;
 }
+
 .sixth-col-title {
   font-size: 20px;
   font-weight: 600;
@@ -643,6 +656,7 @@ header.dark .nav-button-trans {
   font-size: 15px;
   color: #666;
 }
+
 .sixth-link {
   margin-top: 8px;
   font-size: 14px;
@@ -680,6 +694,7 @@ header.dark .nav-button-trans {
   align-items: center;
   padding: 0px 40px;
 }
+
 .next-sevent-border {
   width: 100%;
   border-bottom: 0.3px solid #e5e7eb;
@@ -751,11 +766,13 @@ header.dark .nav-button-trans {
   color: #666;
   overflow: hidden;
 }
+
 .seventh-badge img {
   width: 40px;
   height: 40px;
   transform: scale(1.7) translateX(1px) translateY(2px);
 }
+
 /* BOTTOM */
 
 .seventh-bottom {
@@ -801,10 +818,12 @@ header.dark .nav-button-trans {
   padding: 4px 8px;
   border-radius: 20px;
 }
+
 .seventh-theme svg {
   width: 16px;
   height: 16px;
 }
+
 .seventh-theme svg:nth-child(2) {
   background-color: #ffffff;
   border-radius: 50%;
