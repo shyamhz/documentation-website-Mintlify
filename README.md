@@ -1,10 +1,8 @@
-# Assignment 4 - Mintlify Landing Page Clone
+# Mintlify - The Intelligent Documentation Platform
 
 A static HTML/CSS clone of the Mintlify landing page. This project focuses on layout, typography, responsive sectioning, and marketing-style UI components.
 
-[Preview Link](https://lucent-scone-752cbf.netlify.app/)
-
-![Preview](https://h.kuntalworks.com/image_cdn/uploads/upload_698636c7e27885.75978490.webp)
+[[Screenshot]] :: ![Screenshot](./screenshot.png)
 
 ## Features
 
@@ -14,25 +12,24 @@ A static HTML/CSS clone of the Mintlify landing page. This project focuses on la
 - Customer stories carousel-style grid
 - CTA feature grid with icon cards
 - Multi-column footer with social icons, links, and status bar
-- Scroll-based navbar style changes (small JS snippet)
 
 ## Tech Stack
 
 - HTML5
-- CSS3 (custom styles in `css/style.css`)
-- JavaScript (scroll-based navbar style change)
+- CSS3 (custom styles in `src/style.css`)
 
 ## How to Run
 
-1. Open `index.html` in any modern browser.
+1. Do `bun install` or `npm i`
+2. Run `npm run dev` or `bun dev`
 
 ## Project Structure
 
 - `index.html`
-- `css/`
-- `images/`
-- `assets/`
+- `src/style.css`
+- `public/images/`
+- `public/assets/`
 
-## Notes
+## Please Note
 
-- Several images and SVGs are loaded from external URLs.
+- Multiple images and SVGs are fetched via live external URLs.
